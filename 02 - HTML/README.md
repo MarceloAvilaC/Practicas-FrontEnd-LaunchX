@@ -1,1 +1,1 @@
-# Prácticas de 02 - HTML
+# Prácticas del Módulo 02 - HTML
